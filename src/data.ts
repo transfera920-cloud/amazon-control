@@ -55,8 +55,8 @@ export const FORESTRY_LINKS: LinkItem[] = [
   },
   {
     id: 'link-forest-recreation',
-    title: '景點一覽－台灣山林悠遊網',
-    url: 'https://recreation.forest.gov.tw/Forest/Query',
+    title: '全國森林遊樂區開放時間',
+    url: 'https://recreation.forest.gov.tw/Forest/Query?area=&typ=&word=%E6%A3%AE%E6%9E%97%E9%81%8A%E6%A8%82%E5%8D%80',
   },
 ];
 
