@@ -1,0 +1,6 @@
+{
+  "name": "登山接駁｜路況與管制資訊",
+  "description": "提供登山接駁出發前道路、即時路況、國道高乘載、經常性管制路段、林道、森林遊樂區及登山申請等官方查詢入口。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
