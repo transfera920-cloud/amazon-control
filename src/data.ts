@@ -14,8 +14,8 @@ export const ROAD_TRAFFIC_LINKS: LinkItem[] = [
   },
   {
     id: 'link-police-radio',
-    title: '警廣管制即時路況＋Google地圖＋即時影像',
-    url: 'https://road.ioi.tw/?t=t3',
+    title: '警廣即時路況',
+    url: 'https://rtr.pbs.gov.tw/pbsmgt/RoadAll.html',
   },
   {
     id: 'link-1968-hov',
