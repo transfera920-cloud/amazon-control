@@ -1,7 +1,7 @@
 import { LinkItem } from './types';
 
 export const BRAND_NAME = '亞馬遜高山接駁';
-export const LAST_UPDATED = '2026-10-01';
+export const BRAND_URL = 'https://transfer.amazon-hike.com/';
 
 export const PHONE_SERVICE = {
   title: '用路人服務專線',
