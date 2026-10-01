@@ -1,5 +1,8 @@
 import { LinkItem } from './types';
 
+export const BRAND_NAME = '亞馬遜高山接駁';
+export const LAST_UPDATED = '2026-10-01';
+
 export const PHONE_SERVICE = {
   title: '用路人服務專線',
   number: '0800-231-035',

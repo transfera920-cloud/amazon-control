@@ -1,3 +1,5 @@
+import { LAST_UPDATED } from '../data';
+
 export function Hero() {
   return (
     <header id="hero" className="text-center pt-6 pb-2 sm:pt-10 sm:pb-4">
@@ -14,6 +16,9 @@ export function Hero() {
       >
         路況與管制資訊
       </h1>
+      <p id="hero-last-updated" className="text-xs text-slate-400/90 mt-3 font-mono tracking-wide">
+        資料最後更新時間：{LAST_UPDATED}
+      </p>
     </header>
   );
 }
